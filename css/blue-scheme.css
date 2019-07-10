@@ -471,6 +471,14 @@ input.mainBtn {
   background-image: url("../images/includes/contact.jpg");
 }
 
+#about1 {
+  background-image: url("../images/includes/CapitolAtSunset.jpg");
+}
+
+#immigration1 {
+  background-image: url("../images/includes/immigration.jpg");
+}
+
 .parallax {
   background-attachment: fixed;
   background-repeat: no-repeat;
